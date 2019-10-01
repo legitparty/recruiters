@@ -24,4 +24,9 @@ It is my goal to demonstrate that I have a sense for the correct platform for th
 
 High performance server platforms are a passion of mine. I have written dozens of web servers, playing around with various techniques, some for fun,  some for work. I read other people's platform code for fun, like other people read novels. I read  philosophy for fun, and can digest almost anything written, no matter how Analytic or Continental it is, and I can translate it to whoever I am speaking to. Due to my diverse reading, I am really good at finding intellectual common ground between people of diverse experience. 
 
+I find that I work best dealing with resource constraints, and problems with no existing solution. I am really good at finding and elucidating design flaws, and designing refactors or rewrites that resolve them. I enjoy reading other people's designs, approaching new code like reading a new philosopher. I am also able to build new products from only a sales pitch.
+
+### Leadership
+
+My leadership style is to lead by example, and elucidate what others are trying doing, and I have never had a sole management position. It is like a persuasion style, but mainly persuading the good out of the ideas of others. It is the approach I learned from the philosopher Bertrand Russell. I describe it like this: Science is about gaining value, while Philosophy is about avoiding the loss of value. It is difficult for a scientist to produce value when they aren't protected by a philosopher. And that explains the role of Politics in preventing others from gaining value. 
 
